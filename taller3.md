@@ -8,6 +8,7 @@
 ![Local4](img/Paso%204.png)
 
 ## Crea una rama que se llame segunda, y modifica un fichero en ella para producir un conflicto al unirlo a la rama principal. Entrega el contenido del fichero donde se ha producido el conflicto.
+![Local4](img/ramasegunda.png)
 ![Local4](img/paso%205.png)
 
 ## Soluciona el conflicto que has creado en el punto anterior y sincroniza la rama segunda en el remoto. Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
