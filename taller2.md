@@ -1,4 +1,4 @@
-# prueba
+# David Pelaez Rugama
 ## Bienvenido a gitHub
 
   # Indice
@@ -31,7 +31,7 @@
 
 <https://www.google.es>
 
-![Markdown](img/descarga.jfif)
+![Markdown](img/descarga.png)
 
 
 |Columna1|Columna2|Columna3|
