@@ -12,4 +12,4 @@
 ![Local4](img/paso%205.png)
 
 ## Soluciona el conflicto que has creado en el punto anterior y sincroniza la rama segunda en el remoto. Entrega una captura de pantalla donde se vea que se ha creado la rama en el repositorio de GitHub.
-![Local4](img/paso6.png)
+![Local4](img/Paso6.png)
