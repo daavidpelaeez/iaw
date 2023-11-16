@@ -12,5 +12,4 @@
 
 * [Taller4](taller4.md)
 
-* [Jekyll](jekyll_github_pages.md
-)
+* [Jekyll](jekyll_github_pages.md)
