@@ -5,13 +5,13 @@ En primer lugar tendremos que instalar dockers en el ubuntu que vamos a realizar
 
 Con los siguientes comandos procederemos a la instalación de dockers.
 
-![Ejemplo de imagen](instalar1.png)
-![Ejemplo de imagen](instalar2.png)
-![Ejemplo de imagen](instalar3.png)
+![Ejemplo de imagen](/img/instalar1.png)
+![Ejemplo de imagen](/img/instalar2.png)
+![Ejemplo de imagen](/img/instalar3.png)
 
 Una vez hecho esto con docker run hello-world nos saldra si la instalación se ha completado correctamente.
 
-![Ejemplo de imagen](helloworld.png)
+![Ejemplo de imagen](/img/helloworld.png)
 
 # Instalación Jekyll en Ubuntu con Dockers
 ## PASO 1:
@@ -25,7 +25,7 @@ Ejecutar en el contenedor el comando jekyll new mi-blog, lo que creará un nuevo
 Abrir la carpeta del nuevo proyecto.
 
 Con el siguiente comando haremos esto:
-![Ejemplo de imagen](Paso1.png)
+![Ejemplo de imagen](/img/Paso1.png)
 
 ## PASO 2:
 
@@ -33,7 +33,7 @@ Hasta ahora, solo hemos dado inicio al contenedor y generado los archivos del pr
 
 Para dar forma al sitio web, ahora necesitamos ejecutar la siguiente orden:
 
-![Ejemplo de imagen](Paso2.png)
+![Ejemplo de imagen](/img/Paso2.png)
 
 ## PASO 3:
 
@@ -41,19 +41,19 @@ Una vez construido el sitio (alojado en la carpeta _site), podremos levantar el 
 
 Tambien deberemos añadir al fichero GEMFILE la gema de webrick para que funcione correctamente.
 
-![Ejemplo de imagen](Gemfile.png)
+![Ejemplo de imagen](/img/Gemfile.png)
 
 Ahora con el siguiente comando levantaremos el servidor:
 
-![Ejemplo de imagen](Paso3.png)
+![Ejemplo de imagen](/img/Paso3.png)
 
 Para visualizar la página web, necesitas abrir la siguiente dirección en tu navegador: http://localhost:3000 Mientras el sitio esté en proceso, cualquier cambio que realices en los archivos se mostrará automáticamente en el navegador; solo necesitas actualizar la página para ver las modificaciones.
 
 
 ## PASOS ADICIONALES
 
-![Ejemplo de imagen](adicional.png)
+![Ejemplo de imagen](/img/adicional.png)
 
 Podemos comprobar que el contenedor esta en ejecución con el siguiente comando:
 
-![Ejemplo de imagen](Paso5.png)
+![Ejemplo de imagen](/img/Paso5.png)
