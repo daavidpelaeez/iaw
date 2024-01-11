@@ -41,7 +41,7 @@ Una vez construido el sitio (alojado en la carpeta _site), podremos levantar el 
 
 Tambien deberemos añadir al fichero GEMFILE la gema de webrick para que funcione correctamente.
 
-![Ejemplo de imagen](/img/Gemfile.png)
+![Ejemplo de imagen](/img/gemfile.png)
 
 Ahora con el siguiente comando levantaremos el servidor:
 
